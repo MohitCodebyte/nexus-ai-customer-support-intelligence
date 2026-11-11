@@ -1,0 +1,10 @@
+{
+    "dataset": "BANKING77",
+    "selected_model": "Linear SVM",
+    "selection_basis": "Validation Macro F1",
+    "svm_official_test_accuracy": 0.9087662337662338,
+    "bert_official_test_accuracy": 0.5464285714285714,
+    "svm_official_test_macro_f1": 0.9088301815148109,
+    "bert_official_test_macro_f1": 0.49188554573347737,
+    "comparison_note": "Training record counts differ; SVM used 9993 and BERT-Tiny used 8993 records."
+}

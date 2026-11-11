@@ -1,0 +1,9 @@
+{
+    "source": "d:\\Data scientist\\AI Customer Support Intelligence\\data\\processed\\bitext\\bitext_customer_support_clean.csv",
+    "source_rows": 26872,
+    "eligible_documents": 13683,
+    "skipped_empty": 0,
+    "skipped_placeholder": 13104,
+    "unique_question_intent_pairs": 13683,
+    "placeholder_filter": "conservative regex heuristic"
+}

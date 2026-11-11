@@ -1,0 +1,16 @@
+{
+  "source": "customer_support_twitter.csv",
+  "rows_read": 2811774,
+  "rows_written": 2811774,
+  "rows_removed_missing_required_fields": 0,
+  "invalid_timestamps": 0,
+  "invalid_inbound_values": 0,
+  "inbound_distribution": {
+    "true": 1537843,
+    "false": 1273931
+  },
+  "response_tweet_id_blank": 1040629,
+  "in_response_to_tweet_id_blank": 794335,
+  "output": "D:\\Data scientist\\AI Customer Support Intelligence\\data\\processed\\twitter\\customer_support_twitter_clean.csv",
+  "note": "Blank response-link IDs are preserved. Timestamps are audited but not rewritten. No automatic duplicate tweet removal was performed."
+}

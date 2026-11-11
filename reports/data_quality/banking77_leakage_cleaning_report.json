@@ -1,0 +1,12 @@
+{
+  "original_train_rows": 10003,
+  "overlap_queries_removed_from_train": 6,
+  "training_duplicate_rows_removed": 4,
+  "final_training_rows": 9993,
+  "official_test_rows_preserved": 3080,
+  "duplicates_inside_official_test_preserved": 1,
+  "remaining_train_test_overlap": 0,
+  "training_categories": 77,
+  "testing_categories": 77,
+  "official_test_modified": false
+}

@@ -1,0 +1,9 @@
+{
+    "model": "BERT-Tiny",
+    "test_records": 3080,
+    "training_records": 8993,
+    "best_epoch": 6,
+    "test_accuracy": 0.5464285714285714,
+    "test_macro_f1": 0.49188554573347737,
+    "test_weighted_f1": 0.4918855457334773
+}

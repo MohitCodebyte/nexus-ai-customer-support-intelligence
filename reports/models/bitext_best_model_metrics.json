@@ -1,0 +1,11 @@
+{
+  "model_name": "Logistic Regression",
+  "validation_accuracy": 0.9949504394987844,
+  "validation_macro_f1": 0.9950260984305257,
+  "validation_weighted_f1": 0.9949555376234567,
+  "validation_rows": 5347,
+  "training_rows": 21525,
+  "unique_query_overlap": 0,
+  "saved_at_utc": "2026-10-24T15:13:09.692052+00:00",
+  "note": "Validation results are estimates on this dataset. Real-world generalization has not yet been established."
+}

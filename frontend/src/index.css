@@ -1,0 +1,88 @@
+@import './styles/theme.css';
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.spin {
+  animation: spin 1s linear infinite;
+}
+
+/* Responsive navigation overrides */
+@media (max-width: 900px) {
+  .desktop-nav-pills {
+    display: none !important;
+  }
+  .desktop-launch-btn {
+    display: none !important;
+  }
+  .mobile-menu-toggle {
+    display: flex !important;
+  }
+}
+
+/* Responsive grid overrides */
+@media (max-width: 1024px) {
+  .hero-grid {
+    grid-template-columns: 1fr !important;
+    gap: 2rem !important;
+  }
+  .contact-card-grid {
+    grid-template-columns: 1fr !important;
+    gap: 2.5rem !important;
+  }
+  .chat-workspace-grid {
+    grid-template-columns: 1fr !important;
+  }
+  .dashboard-columns-grid {
+    grid-template-columns: 1fr !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .hero-grid > div:last-child {
+    min-height: 380px !important;
+    height: 380px !important;
+  }
+}
+
+/* ========================================================================= */
+/* AI Assistant 3-Column Compact Workspace Responsive Rules                  */
+/* ========================================================================= */
+@media (max-width: 1100px) {
+  .nexus-ai-workspace-grid {
+    grid-template-columns: minmax(0, 1fr) 250px !important;
+  }
+  .nexus-workspace-sidebar {
+    display: none !important;
+  }
+  .nexus-mobile-sidebar-toggle {
+    display: inline-flex !important;
+  }
+}
+
+@media (max-width: 820px) {
+  .nexus-ai-workspace-grid {
+    grid-template-columns: 1fr !important;
+    gap: 0.65rem !important;
+    height: 100% !important;
+  }
+  .nexus-workspace-sidebar {
+    display: none !important;
+  }
+  .nexus-workspace-companion {
+    display: none !important;
+  }
+  .nexus-mobile-sidebar-toggle {
+    display: inline-flex !important;
+  }
+  .nexus-workspace-chat {
+    height: 100% !important;
+  }
+}
+

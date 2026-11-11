@@ -1,0 +1,8 @@
+{
+  "source_rows": 2811774,
+  "linked_parent_child_edges": 2013577,
+  "customer_support_pairs": 1821737,
+  "unmatched_parent_ids": 3862,
+  "same_direction_links": 191840,
+  "output_file": "D:\\Data scientist\\AI Customer Support Intelligence\\data\\processed\\twitter\\twitter_reply_pairs.csv"
+}

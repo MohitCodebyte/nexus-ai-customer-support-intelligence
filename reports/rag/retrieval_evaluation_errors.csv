@@ -1,0 +1,19 @@
+query,expected_intent,predicted_intent
+want help setting my deilvery address up,set_up_shipping_address,change_shipping_address
+how do i set up my newshipping address,set_up_shipping_address,newsletter_subscription
+I do not know what I need to do to make na order,place_order,contact_human_agent
+change information on standardaccount,edit_account,delete_account
+sypport creating user,registration_problems,create_account
+can you help me changing a product of a purchase?,change_order,place_order
+I need hnelp to solve a trouble with online payment,payment_issue,check_payment_methods
+"I have to see my bill, help me",check_invoice,get_invoice
+using premium account,switch_account,create_account
+i have to look for the bill from ten months ago,check_invoice,get_invoice
+register,create_account,registration_problems
+I have an error entering another hsipping address,set_up_shipping_address,change_shipping_address
+shipping address issue,set_up_shipping_address,change_shipping_address
+i have a trouble updating my addrses,change_shipping_address,set_up_shipping_address
+have a questoon about creating user profiles,registration_problems,create_account
+clsoe standard account,delete_account,create_account
+where do i set a different deivery address up,set_up_shipping_address,change_shipping_address
+checking invoices from 10 purchases ago,check_invoice,get_invoice

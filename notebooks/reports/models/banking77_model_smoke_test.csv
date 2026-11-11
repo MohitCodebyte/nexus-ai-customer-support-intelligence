@@ -1,0 +1,6 @@
+Message,Predicted Intent,Top Candidate
+My card has been stolen,lost_or_stolen_card,lost_or_stolen_card
+I am waiting for my bank transfer,balance_not_updated_after_bank_transfer,balance_not_updated_after_bank_transfer
+Why was I charged an extra fee?,extra_charge_on_statement,extra_charge_on_statement
+I cannot verify my identity,why_verify_identity,why_verify_identity
+How do I create a disposable virtual card?,get_disposable_virtual_card,get_disposable_virtual_card

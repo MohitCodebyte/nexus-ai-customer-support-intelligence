@@ -1,0 +1,9 @@
+{
+    "score_threshold": 0.6,
+    "margin_threshold": 0.02,
+    "calibration_queries": 2737,
+    "observed_accepted_accuracy": 0.9952,
+    "observed_coverage": 0.9931,
+    "calibration_status": "provisional",
+    "warning": "Thresholds selected on the same held-out set used for evaluation. Independent calibration is still required."
+}

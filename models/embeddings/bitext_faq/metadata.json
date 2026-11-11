@@ -1,0 +1,8 @@
+{
+    "dataset": "Bitext Customer Support",
+    "documents": 13683,
+    "embedding_dimensions": 384,
+    "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "similarity": "cosine",
+    "index_status": "verified"
+}

@@ -1,0 +1,21 @@
+{
+    "method": "VADER Lexicon Baseline",
+    "sample_size": 10000,
+    "sentiment_distribution": {
+        "Positive": {
+            "count": 3868,
+            "percentage": 38.68
+        },
+        "Negative": {
+            "count": 3170,
+            "percentage": 31.7
+        },
+        "Neutral": {
+            "count": 2962,
+            "percentage": 29.62
+        }
+    },
+    "mean_compound_score": 0.0369,
+    "median_compound_score": 0.0,
+    "ground_truth_available": false
+}

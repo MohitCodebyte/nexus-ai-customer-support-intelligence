@@ -1,0 +1,18 @@
+{
+  "model_name": "prajjwal1/bert-tiny",
+  "model_type": "BERT-Tiny sequence classification",
+  "task": "customer_support_intent_classification",
+  "number_of_intents": 27,
+  "max_length": 64,
+  "batch_size": 16,
+  "epochs_completed": 3,
+  "best_epoch": 3,
+  "best_validation_accuracy": 0.9373480456330653,
+  "best_validation_macro_f1": 0.9362394856371922,
+  "best_validation_weighted_f1": 0.9353612191899426,
+  "training_rows": 21525,
+  "validation_rows": 5347,
+  "query_overlap": 0,
+  "device_used": "cpu",
+  "note": "Metrics are validation results, not official test results or proof of real-world performance."
+}

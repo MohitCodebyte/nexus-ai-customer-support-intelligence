@@ -1,0 +1,7 @@
+{
+  "best_model": "Linear SVM",
+  "test_accuracy": 0.8905844155844156,
+  "test_macro_f1": 0.8905638985728485,
+  "test_weighted_f1": 0.8905638985728485,
+  "test_samples": 3080
+}

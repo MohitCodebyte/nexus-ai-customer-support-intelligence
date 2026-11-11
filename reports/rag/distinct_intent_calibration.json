@@ -1,0 +1,14 @@
+{
+    "heldout_queries": 2737,
+    "distinct_intent_top1_accuracy": 0.9934234563390574,
+    "distinct_intent_top3_recall": 1.0,
+    "distinct_intent_count": 27,
+    "target_accepted_accuracy": 0.995,
+    "selected_threshold": {
+        "score": 0.6,
+        "margin": 0.02,
+        "coverage": 0.9930580928023384,
+        "accepted_accuracy": 0.9952170713760118
+    },
+    "automatic_answer_gate_ready": true
+}

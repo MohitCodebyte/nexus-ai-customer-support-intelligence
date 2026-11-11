@@ -1,0 +1,6 @@
+customer_message,predicted_intent,category,model_score
+I want to cancel my order,cancel_order,ORDER,0.5911
+My refund has not arrived yet,track_refund,REFUND,0.3424
+I forgot my password and cannot log in,recover_password,ACCOUNT,0.7897
+Can you send me a copy of my invoice?,get_invoice,INVOICE,0.6959
+I want to change my shipping address,change_shipping_address,SHIPPING,0.9874

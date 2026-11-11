@@ -1,0 +1,14 @@
+actual_intent,error_count
+get_refund,5
+cancel_order,4
+create_account,3
+get_invoice,3
+change_order,2
+payment_issue,2
+track_order,2
+check_invoice,1
+check_refund_policy,1
+delete_account,1
+newsletter_subscription,1
+registration_problems,1
+set_up_shipping_address,1

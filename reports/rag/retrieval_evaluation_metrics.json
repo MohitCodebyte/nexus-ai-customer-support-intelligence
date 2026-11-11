@@ -1,0 +1,7 @@
+{
+    "index_documents": 10946,
+    "heldout_queries": 2737,
+    "top1_intent_accuracy": 0.9934,
+    "top3_intent_recall": 0.9982,
+    "evaluation": "stratified 80/20 held-out retrieval"
+}

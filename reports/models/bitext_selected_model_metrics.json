@@ -1,0 +1,14 @@
+{
+  "selected_model": "Logistic Regression",
+  "test_accuracy": 0.9932432432432432,
+  "test_macro_f1": 0.9932489589675852,
+  "test_weighted_f1": 0.9932523380645804,
+  "test_records": 3996,
+  "intent_classes": 27,
+  "train_records": 18843,
+  "validation_records": 4033,
+  "query_overlap_train_test": 0,
+  "query_overlap_validation_test": 0,
+  "saved_at_utc": "2026-10-25T04:58:33.101011+00:00",
+  "note": "Evaluated on the untouched query-grouped test split. Real-world performance is not guaranteed by this dataset result."
+}

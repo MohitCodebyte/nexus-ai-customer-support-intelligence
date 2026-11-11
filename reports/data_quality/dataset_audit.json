@@ -1,0 +1,202 @@
+[
+  {
+    "file": "banking77_train.csv",
+    "size_bytes": 839073,
+    "rows": 10003,
+    "columns": [
+      "text",
+      "category"
+    ],
+    "blank_values": {
+      "text": 0,
+      "category": 0
+    },
+    "sample_rows": [
+      {
+        "text": "I am still waiting on my card?",
+        "category": "card_arrival"
+      },
+      {
+        "text": "What can I do if my card still hasn't arrived after 2 weeks?",
+        "category": "card_arrival"
+      },
+      {
+        "text": "I have been waiting over a week. Is the card still coming?",
+        "category": "card_arrival"
+      },
+      {
+        "text": "Can I track my card while it is in the process of delivery?",
+        "category": "card_arrival"
+      },
+      {
+        "text": "How do I know if I will get my card, or if it is lost?",
+        "category": "card_arrival"
+      }
+    ]
+  },
+  {
+    "file": "banking77_test.csv",
+    "size_bytes": 239961,
+    "rows": 3080,
+    "columns": [
+      "text",
+      "category"
+    ],
+    "blank_values": {
+      "text": 0,
+      "category": 0
+    },
+    "sample_rows": [
+      {
+        "text": "How do I locate my card?",
+        "category": "card_arrival"
+      },
+      {
+        "text": "I still have not received my new card, I ordered over a week ago.",
+        "category": "card_arrival"
+      },
+      {
+        "text": "I ordered a card but it has not arrived. Help please!",
+        "category": "card_arrival"
+      },
+      {
+        "text": "Is there a way to know when my card will arrive?",
+        "category": "card_arrival"
+      },
+      {
+        "text": "My card has not arrived yet.",
+        "category": "card_arrival"
+      }
+    ]
+  },
+  {
+    "file": "bitext_customer_support.csv",
+    "size_bytes": 19229347,
+    "rows": 26872,
+    "columns": [
+      "flags",
+      "instruction",
+      "category",
+      "intent",
+      "response"
+    ],
+    "blank_values": {
+      "flags": 0,
+      "instruction": 0,
+      "category": 0,
+      "intent": 0,
+      "response": 0
+    },
+    "sample_rows": [
+      {
+        "flags": "B",
+        "instruction": "question about cancelling order {{Order Number}}",
+        "category": "ORDER",
+        "intent": "cancel_order",
+        "response": "I've understood you have a question regarding canceling order {{Order Number}}, and I'm here to provide you with the information you need. Please go ahead and ask your question, and I'll do my best to assist you."
+      },
+      {
+        "flags": "BQZ",
+        "instruction": "i have a question about cancelling oorder {{Order Number}}",
+        "category": "ORDER",
+        "intent": "cancel_order",
+        "response": "I've been informed that you have a question about canceling order {{Order Number}}. I'm here to assist you! Please go ahead and let me know what specific question you have, and I'll provide you with all the information and guidance you need. Your satisfaction is my top priority."
+      },
+      {
+        "flags": "BLQZ",
+        "instruction": "i need help cancelling puchase {{Order Number}}",
+        "category": "ORDER",
+        "intent": "cancel_order",
+        "response": "I can sense that you're seeking assistance with canceling your purchase with the purchase number {{Order Number}}. I apologize for any inconvenience caused, and I'm here to guide you through the process.\n\nTo cancel your purchase, please follow these steps:\n\n1. Log into your account: Visit our {{Online Company Portal Info}} and sign in using your credentials.\n2. Locate your order: Once logged in, navigate to the '{{Online Order Interaction}}' or '{{Online Order Interaction}}' section to find the purchase with the order number {{Order Number}}.\n3. Initiate the cancellation: Upon finding your purchase, look for the option labeled '{{Online Order Interaction}}' and click on it to initiate the cancellation process.\n4. Confirm the cancellation: Our system might ask for confirmation or feedback regarding the cancellation. Kindly provide the necessary information to complete the process.\n5. Seek additional support: If you encounter any difficulties or require further assistance, our dedicated customer support team is available during {{Customer Support Hours}}. You can contact us at {{Customer Support Phone Number}} or use the Live Chat feature on our {{Website URL}}.\n\nWe appreciate your understanding and value your satisfaction. Should you have any more questions or concerns, feel free to reach out to us. We're here to help you."
+      },
+      {
+        "flags": "BL",
+        "instruction": "I need to cancel purchase {{Order Number}}",
+        "category": "ORDER",
+        "intent": "cancel_order",
+        "response": "I understood that you need assistance with canceling your purchase with the order number {{Order Number}}. We apologize for any inconvenience this may have caused. To initiate the cancellation process, please follow these steps:\n\n1. Sign in to your account: Visit our {{Online Company Portal Info}} and login using your credentials.\n2. Access your order history: Once logged in, navigate to the \"{{Online Order Interaction}}\" or \"{{Online Order Interaction}}\" section.\n3. Locate the purchase: Look for the order with the specific order number {{Order Number}}.\n4. Cancel the purchase: Click on the \"{{Online Order Interaction}}\" option associated with the purchase.\n5. Confirm the cancellation: Follow any further prompts or questions from the system to finalize the cancellation.\n\nIf you encounter any difficulties or have further questions, our dedicated team is available to assist you. You can reach us during {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat feature on our website {{Website URL}}. We appreciate your understanding and value your satisfaction."
+      },
+      {
+        "flags": "BCELN",
+        "instruction": "I cannot afford this order, cancel purchase {{Order Number}}",
+        "category": "ORDER",
+        "intent": "cancel_order",
+        "response": "I'm sensitive to the fact that you're facing financial difficulties and need to cancel your purchase with the order number {{Order Number}}. We're here to assist you with that, and I appreciate your transparency in sharing your situation with us. Let's proceed with the cancellation process:\n\n1. Access Your Account: Log in to our {{Online Company Portal Info}}.\n2. Locate Your Order History: Once you're logged in, navigate to the '{{Online Order Interaction}}' or '{{Online Order Interaction}}' section.\n3. Find the Relevant Purchase: Look for the purchase associated with the order number {{Order Number}} and click on it.\n4. Initiate the Cancellation: Within the purchase details page, you should see an option labeled '{{Online Order Interaction}}'. Please select this option.\n5. Confirm Cancellation: The system may prompt you for confirmation or ask a few questions for feedback. Please complete these steps.\n\nIf you encounter any difficulties or have further questions along the way, our team is ready to assist you. Reach out to us during {{Customer Support Hours}} at {{Customer Support Phone Number}} or via Live Chat on our {{Website URL}}. We value your satisfaction and understand that situations can change."
+      }
+    ]
+  },
+  {
+    "file": "customer_support_twitter.csv",
+    "size_bytes": 516508641,
+    "rows": 2811774,
+    "columns": [
+      "tweet_id",
+      "author_id",
+      "inbound",
+      "created_at",
+      "text",
+      "response_tweet_id",
+      "in_response_to_tweet_id"
+    ],
+    "blank_values": {
+      "tweet_id": 0,
+      "author_id": 0,
+      "inbound": 0,
+      "created_at": 0,
+      "text": 0,
+      "response_tweet_id": 1040629,
+      "in_response_to_tweet_id": 794335
+    },
+    "sample_rows": [
+      {
+        "tweet_id": "1",
+        "author_id": "sprintcare",
+        "inbound": "False",
+        "created_at": "Tue Oct 31 22:10:47 +0000 2017",
+        "text": "@115712 I understand. I would like to assist you. We would need to get you into a private secured link to further assist.",
+        "response_tweet_id": "2",
+        "in_response_to_tweet_id": "3"
+      },
+      {
+        "tweet_id": "2",
+        "author_id": "115712",
+        "inbound": "True",
+        "created_at": "Tue Oct 31 22:11:45 +0000 2017",
+        "text": "@sprintcare and how do you propose we do that",
+        "response_tweet_id": "",
+        "in_response_to_tweet_id": "1"
+      },
+      {
+        "tweet_id": "3",
+        "author_id": "115712",
+        "inbound": "True",
+        "created_at": "Tue Oct 31 22:08:27 +0000 2017",
+        "text": "@sprintcare I have sent several private messages and no one is responding as usual",
+        "response_tweet_id": "1",
+        "in_response_to_tweet_id": "4"
+      },
+      {
+        "tweet_id": "4",
+        "author_id": "sprintcare",
+        "inbound": "False",
+        "created_at": "Tue Oct 31 21:54:49 +0000 2017",
+        "text": "@115712 Please send us a Private Message so that we can further assist you. Just click ‘Message’ at the top of your profile.",
+        "response_tweet_id": "3",
+        "in_response_to_tweet_id": "5"
+      },
+      {
+        "tweet_id": "5",
+        "author_id": "115712",
+        "inbound": "True",
+        "created_at": "Tue Oct 31 21:49:35 +0000 2017",
+        "text": "@sprintcare I did.",
+        "response_tweet_id": "4",
+        "in_response_to_tweet_id": "6"
+      }
+    ],
+    "inbound_distribution": {
+      "False": 1273931,
+      "True": 1537843
+    }
+  }
+]

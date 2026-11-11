@@ -1,0 +1,22 @@
+{
+  "test_samples": 3996,
+  "intent_classes": 27,
+  "query_overlap_train_test": 0,
+  "query_overlap_validation_test": 0,
+  "results": [
+    {
+      "Model": "Logistic Regression",
+      "Accuracy": 0.9932432432432432,
+      "Macro F1": 0.9932489589675852,
+      "Weighted F1": 0.9932523380645804
+    },
+    {
+      "Model": "BERT-Tiny",
+      "Accuracy": 0.9436936936936937,
+      "Macro F1": 0.9431464184158431,
+      "Weighted F1": 0.9438532547575849
+    }
+  ],
+  "bert_test_inference_seconds": 2.23,
+  "note": "Both models were trained using the same final training split and evaluated on the same untouched test set. Results describe performance on this dataset and do not guarantee real-world customer-support performance."
+}

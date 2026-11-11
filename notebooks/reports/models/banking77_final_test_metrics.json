@@ -1,0 +1,15 @@
+{
+    "dataset": "BANKING77",
+    "training_records": 9993,
+    "official_test_records": 3080,
+    "test_accuracy": 0.9087662337662338,
+    "test_macro_f1": 0.9088301815148109,
+    "test_weighted_f1": 0.9088301815148107,
+    "training_time_seconds": 5.202846527099609,
+    "word_features": 10286,
+    "character_features": 13497,
+    "combined_features": 23783,
+    "incorrect_predictions": 281,
+    "sklearn_version": "1.8.0",
+    "test_duplicate_rows_preserved": 1
+}

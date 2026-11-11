@@ -1,0 +1,386 @@
+placeholder,occurrences,suggested_type,required_source,replacement_value,status
+Order Number,5122,dynamic_data,Authenticated customer or verified backend,,Needs field mapping
+Account Type,4436,dynamic_data,Authenticated customer or verified backend,,Needs field mapping
+Account Category,3080,dynamic_data,Authenticated customer or verified backend,,Needs field mapping
+Online Order Interaction,2699,ui_or_workflow_config,Verified application UI/workflow configuration,,Needs manual review
+Customer Support Phone Number,2635,organization_config,Configured company settings,,Needs configuration
+Website URL,2534,organization_config,Configured company settings,,Needs configuration
+Customer Support Hours,2325,organization_config,Configured company settings,,Needs configuration
+Invoice Number,1513,dynamic_data,Authenticated customer or verified backend,,Needs field mapping
+Online Company Portal Info,1055,organization_config,Configured company settings,,Needs configuration
+Tracking Number,896,dynamic_data,Authenticated customer or verified backend,,Needs field mapping
+Date Range,894,dynamic_data,Authenticated customer or verified backend,,Needs field mapping
+Client Last Name,712,dynamic_data,Authenticated customer or verified backend,,Needs field mapping
+Salutation,706,dynamic_data,Authenticated customer or verified backend,,Needs field mapping
+Settings,625,ui_or_workflow_config,Verified application UI/workflow configuration,,Needs manual review
+Delivery City,606,dynamic_data,Authenticated customer or verified backend,,Needs field mapping
+Refund Amount,563,dynamic_data,Authenticated customer or verified backend,,Needs field mapping
+Delivery Country,504,dynamic_data,Authenticated customer or verified backend,,Needs field mapping
+Profile,490,ui_or_workflow_config,Verified application UI/workflow configuration,,Needs manual review
+Account Change,472,ui_or_workflow_config,Verified application UI/workflow configuration,,Needs manual review
+Upgrade Account,448,ui_or_workflow_config,Verified application UI/workflow configuration,,Needs manual review
+Login Page URL,397,organization_config,Configured company settings,,Needs configuration
+Currency Symbol,373,dynamic_data,Authenticated customer or verified backend,,Needs field mapping
+Person Name,362,dynamic_data,Authenticated customer or verified backend,,Needs field mapping
+Store Location,325,organization_config,Configured company settings,,Needs configuration
+Forgot Password,219,ui_or_workflow_config,Verified application UI/workflow configuration,,Needs manual review
+Order Status,187,unknown,Determine the authoritative source,,Needs manual review
+Customer Support Email,174,organization_config,Configured company settings,,Needs configuration
+Profile Type,140,ui_or_workflow_config,Verified application UI/workflow configuration,,Needs manual review
+Order Tracking,79,unknown,Determine the authoritative source,,Needs manual review
+Forgot PIN,75,unknown,Determine the authoritative source,,Needs manual review
+Client Name,60,unknown,Determine the authoritative source,,Needs manual review
+Forgot Access Key,54,unknown,Determine the authoritative source,,Needs manual review
+Account Recovery Page URL,52,unknown,Determine the authoritative source,,Needs manual review
+Money Amount,50,unknown,Determine the authoritative source,,Needs manual review
+Company Name,45,organization_config,Configured company settings,,Needs configuration
+Account Recovery,36,unknown,Determine the authoritative source,,Needs manual review
+Security,34,unknown,Determine the authoritative source,,Needs manual review
+Profile Settings,30,ui_or_workflow_config,Verified application UI/workflow configuration,,Needs manual review
+Cancel Purchase,28,unknown,Determine the authoritative source,,Needs manual review
+Forgot Key,25,unknown,Determine the authoritative source,,Needs manual review
+Account Recovery Page,24,unknown,Determine the authoritative source,,Needs manual review
+Reset PIN,21,unknown,Determine the authoritative source,,Needs manual review
+Client First Name,18,unknown,Determine the authoritative source,,Needs manual review
+Purchase History,14,unknown,Determine the authoritative source,,Needs manual review
+Company Account,13,unknown,Determine the authoritative source,,Needs manual review
+Live Chat Support,13,unknown,Determine the authoritative source,,Needs manual review
+Toll-Free Number,11,unknown,Determine the authoritative source,,Needs manual review
+tracking number,10,dynamic_data,Authenticated customer or verified backend,,Needs field mapping
+order number,10,dynamic_data,Authenticated customer or verified backend,,Needs field mapping
+PIN Code,10,unknown,Determine the authoritative source,,Needs manual review
+Reset Password,9,unknown,Determine the authoritative source,,Needs manual review
+Track Order,9,unknown,Determine the authoritative source,,Needs manual review
+Client Full Name,8,unknown,Determine the authoritative source,,Needs manual review
+Feedback Email Address,8,unknown,Determine the authoritative source,,Needs manual review
+Feature 1,8,unknown,Determine the authoritative source,,Needs manual review
+Feature 2,8,unknown,Determine the authoritative source,,Needs manual review
+Feature 3,8,unknown,Determine the authoritative source,,Needs manual review
+Company,7,unknown,Determine the authoritative source,,Needs manual review
+PIN Settings,7,ui_or_workflow_config,Verified application UI/workflow configuration,,Needs manual review
+PIN Recovery,7,unknown,Determine the authoritative source,,Needs manual review
+Reset Key,6,unknown,Determine the authoritative source,,Needs manual review
+Reset Access Key,6,unknown,Determine the authoritative source,,Needs manual review
+Password Reset Page,6,unknown,Determine the authoritative source,,Needs manual review
+Refund Processing Time,5,unknown,Determine the authoritative source,,Needs manual review
+Customer Service Email,5,unknown,Determine the authoritative source,,Needs manual review
+PIN Management,5,unknown,Determine the authoritative source,,Needs manual review
+Privacy,5,unknown,Determine the authoritative source,,Needs manual review
+Password Recovery Page URL,5,unknown,Determine the authoritative source,,Needs manual review
+Password,5,unknown,Determine the authoritative source,,Needs manual review
+PIN Retrieval,5,unknown,Determine the authoritative source,,Needs manual review
+Customer Service Hours,4,unknown,Determine the authoritative source,,Needs manual review
+Contact Method,4,unknown,Determine the authoritative source,,Needs manual review
+Online Customer Support Channel,4,unknown,Determine the authoritative source,,Needs manual review
+Forgot Pin Code,4,unknown,Determine the authoritative source,,Needs manual review
+Forgot Account Key,4,unknown,Determine the authoritative source,,Needs manual review
+Forgot Profile Key,4,ui_or_workflow_config,Verified application UI/workflow configuration,,Needs manual review
+Submit,4,unknown,Determine the authoritative source,,Needs manual review
+PIN,4,unknown,Determine the authoritative source,,Needs manual review
+Profile Recovery Page URL,4,ui_or_workflow_config,Verified application UI/workflow configuration,,Needs manual review
+Customer Support Team,3,unknown,Determine the authoritative source,,Needs manual review
+Date,3,unknown,Determine the authoritative source,,Needs manual review
+Account Number,3,dynamic_data,Authenticated customer or verified backend,,Needs field mapping
+Customer Service Email Address,3,unknown,Determine the authoritative source,,Needs manual review
+Standard Shipping Time,3,unknown,Determine the authoritative source,,Needs manual review
+Expedited Shipping Time,3,unknown,Determine the authoritative source,,Needs manual review
+Delivery Time,3,unknown,Determine the authoritative source,,Needs manual review
+PIN Code Retrieval,3,unknown,Determine the authoritative source,,Needs manual review
+Retrieve PIN,3,unknown,Determine the authoritative source,,Needs manual review
+Reset User Key,3,unknown,Determine the authoritative source,,Needs manual review
+Security & Privacy,3,unknown,Determine the authoritative source,,Needs manual review
+PIN Code Recovery,3,unknown,Determine the authoritative source,,Needs manual review
+Forgot User Key,3,unknown,Determine the authoritative source,,Needs manual review
+Recover PIN,3,unknown,Determine the authoritative source,,Needs manual review
+User Account Settings,3,ui_or_workflow_config,Verified application UI/workflow configuration,,Needs manual review
+PIN Reset,3,unknown,Determine the authoritative source,,Needs manual review
+User Account Recovery,3,unknown,Determine the authoritative source,,Needs manual review
+Account Security,3,unknown,Determine the authoritative source,,Needs manual review
+Profile Recovery,3,ui_or_workflow_config,Verified application UI/workflow configuration,,Needs manual review
+Feedback Email,3,unknown,Determine the authoritative source,,Needs manual review
+Switch User,3,unknown,Determine the authoritative source,,Needs manual review
+Purchase Details,3,unknown,Determine the authoritative source,,Needs manual review
+Rebate Tracking Number,3,dynamic_data,Authenticated customer or verified backend,,Needs field mapping
+Cancellation Policy,2,unknown,Determine the authoritative source,,Needs manual review
+Refund Policy,2,unknown,Determine the authoritative source,,Needs manual review
+My Purchases,2,unknown,Determine the authoritative source,,Needs manual review
+Date of the Invoice,2,unknown,Determine the authoritative source,,Needs manual review
+X-day/money back guarantee period,2,unknown,Determine the authoritative source,,Needs manual review
+number of days,2,unknown,Determine the authoritative source,,Needs manual review
+Complaint Email Address,2,unknown,Determine the authoritative source,,Needs manual review
+Customer Assistance Hours,2,unknown,Determine the authoritative source,,Needs manual review
+Live Chat,2,unknown,Determine the authoritative source,,Needs manual review
+Customer Assistance Email Address,2,unknown,Determine the authoritative source,,Needs manual review
+Customer Assistance Phone Number,2,organization_config,Configured company settings,,Needs configuration
+Number of Days,2,unknown,Determine the authoritative source,,Needs manual review
+Estimated Delivery Time,2,unknown,Determine the authoritative source,,Needs manual review
+Shipping Cut-off Time,2,unknown,Determine the authoritative source,,Needs manual review
+Standard Shipping Days,2,unknown,Determine the authoritative source,,Needs manual review
+Standard Delivery Time,2,unknown,Determine the authoritative source,,Needs manual review
+Expedited Delivery Time,2,unknown,Determine the authoritative source,,Needs manual review
+Product Category,2,unknown,Determine the authoritative source,,Needs manual review
+Recover Access Key,2,unknown,Determine the authoritative source,,Needs manual review
+Access Key,2,unknown,Determine the authoritative source,,Needs manual review
+Access Key Recovery,2,unknown,Determine the authoritative source,,Needs manual review
+Save,2,unknown,Determine the authoritative source,,Needs manual review
+Change PIN,2,unknown,Determine the authoritative source,,Needs manual review
+PIN Code Restoration,2,unknown,Determine the authoritative source,,Needs manual review
+Retrieve Account Key,2,unknown,Determine the authoritative source,,Needs manual review
+Password Reset Page URL,2,unknown,Determine the authoritative source,,Needs manual review
+Forgot User Access Key,2,unknown,Determine the authoritative source,,Needs manual review
+Support Page URL,2,unknown,Determine the authoritative source,,Needs manual review
+Help Center URL,2,unknown,Determine the authoritative source,,Needs manual review
+Account,2,unknown,Determine the authoritative source,,Needs manual review
+Restore Password,2,unknown,Determine the authoritative source,,Needs manual review
+Forgot User Account Key,2,unknown,Determine the authoritative source,,Needs manual review
+Profile Recovery Page,2,ui_or_workflow_config,Verified application UI/workflow configuration,,Needs manual review
+PIN Code Reset,2,unknown,Determine the authoritative source,,Needs manual review
+PIN Code Management,2,unknown,Determine the authoritative source,,Needs manual review
+User Profile Settings,2,ui_or_workflow_config,Verified application UI/workflow configuration,,Needs manual review
+Product Feedback Email,2,unknown,Determine the authoritative source,,Needs manual review
+Review Platform,2,unknown,Determine the authoritative source,,Needs manual review
+Change User,2,unknown,Determine the authoritative source,,Needs manual review
+Basic,2,unknown,Determine the authoritative source,,Needs manual review
+Account Upgrade,2,unknown,Determine the authoritative source,,Needs manual review
+Basic Account,2,unknown,Determine the authoritative source,,Needs manual review
+Purchase Status,2,unknown,Determine the authoritative source,,Needs manual review
+ETA,2,unknown,Determine the authoritative source,,Needs manual review
+Reimbursement ID,2,unknown,Determine the authoritative source,,Needs manual review
+Order/Transaction/Reimbursement,2,unknown,Determine the authoritative source,,Needs manual review
+Rebate ID,2,unknown,Determine the authoritative source,,Needs manual review
+Reference Number,2,unknown,Determine the authoritative source,,Needs manual review
+Return Policy,1,unknown,Determine the authoritative source,,Needs manual review
+Confirm Cancellation,1,unknown,Determine the authoritative source,,Needs manual review
+Remove,1,unknown,Determine the authoritative source,,Needs manual review
+additional details,1,unknown,Determine the authoritative source,,Needs manual review
+month,1,unknown,Determine the authoritative source,,Needs manual review
+year,1,unknown,Determine the authoritative source,,Needs manual review
+Account Name,1,unknown,Determine the authoritative source,,Needs manual review
+Date of the Bill,1,unknown,Determine the authoritative source,,Needs manual review
+Billing Category,1,unknown,Determine the authoritative source,,Needs manual review
+Timeframe,1,unknown,Determine the authoritative source,,Needs manual review
+Year,1,unknown,Determine the authoritative source,,Needs manual review
+Billing,1,unknown,Determine the authoritative source,,Needs manual review
+Product/Service Name,1,unknown,Determine the authoritative source,,Needs manual review
+Product/Service Defect Refund Time,1,unknown,Determine the authoritative source,,Needs manual review
+Cancellation Refund Time,1,unknown,Determine the authoritative source,,Needs manual review
+Unauthorized Charges Refund Time,1,unknown,Determine the authoritative source,,Needs manual review
+Event Cancellation Refund Time,1,unknown,Determine the authoritative source,,Needs manual review
+Duplicate Charges Refund Time,1,unknown,Determine the authoritative source,,Needs manual review
+Non-receipt of Goods Refund Time,1,unknown,Determine the authoritative source,,Needs manual review
+CompanyName,1,unknown,Determine the authoritative source,,Needs manual review
+Claims Contact Number,1,unknown,Determine the authoritative source,,Needs manual review
+Claims Website URL,1,organization_config,Configured company settings,,Needs configuration
+Claims Department,1,unknown,Determine the authoritative source,,Needs manual review
+Complaint Hotline Number,1,unknown,Determine the authoritative source,,Needs manual review
+Consumer Complaint Email Address,1,unknown,Determine the authoritative source,,Needs manual review
+Customer Claims Email Address,1,unknown,Determine the authoritative source,,Needs manual review
+Business Name Anonymized,1,unknown,Determine the authoritative source,,Needs manual review
+Customer Support Ticket Number,1,unknown,Determine the authoritative source,,Needs manual review
+Customer Support Start Time,1,unknown,Determine the authoritative source,,Needs manual review
+Customer Support End Time,1,unknown,Determine the authoritative source,,Needs manual review
+Opening Time,1,unknown,Determine the authoritative source,,Needs manual review
+Closing Time,1,unknown,Determine the authoritative source,,Needs manual review
+Free Customer Support Number,1,unknown,Determine the authoritative source,,Needs manual review
+mention the different contact options available,1,unknown,Determine the authoritative source,,Needs manual review
+Customer Support Hotline,1,unknown,Determine the authoritative source,,Needs manual review
+Customer Assistance Email,1,unknown,Determine the authoritative source,,Needs manual review
+Social Media Handles,1,unknown,Determine the authoritative source,,Needs manual review
+Customer Service Toll-Free Number,1,unknown,Determine the authoritative source,,Needs manual review
+contact_method,1,unknown,Determine the authoritative source,,Needs manual review
+Social Media Platform,1,unknown,Determine the authoritative source,,Needs manual review
+Business Hours,1,unknown,Determine the authoritative source,,Needs manual review
+Working Hours,1,unknown,Determine the authoritative source,,Needs manual review
+Live Chat Feature,1,unknown,Determine the authoritative source,,Needs manual review
+Customer Support Contact Number,1,unknown,Determine the authoritative source,,Needs manual review
+Customer Support Opening Time,1,unknown,Determine the authoritative source,,Needs manual review
+Customer Support Closing Time,1,unknown,Determine the authoritative source,,Needs manual review
+Customer Support Days,1,unknown,Determine the authoritative source,,Needs manual review
+Company Support Channels,1,unknown,Determine the authoritative source,,Needs manual review
+Customer Support Website,1,unknown,Determine the authoritative source,,Needs manual review
+Customer Support Toll-Free Number,1,unknown,Determine the authoritative source,,Needs manual review
+Customer Support Team Name,1,unknown,Determine the authoritative source,,Needs manual review
+proceed to our website and click on the 'Contact Us' button / dial our customer support number / reach out to our live chat support,1,unknown,Determine the authoritative source,,Needs manual review
+your issue,1,unknown,Determine the authoritative source,,Needs manual review
+the reason for your call,1,unknown,Determine the authoritative source,,Needs manual review
+the specific topic you need assistance with,1,unknown,Determine the authoritative source,,Needs manual review
+Company Phone Number,1,organization_config,Configured company settings,,Needs configuration
+customer_support_phone_number,1,unknown,Determine the authoritative source,,Needs manual review
+Account Closure Timeframe,1,unknown,Determine the authoritative source,,Needs manual review
+Account Closure Process,1,unknown,Determine the authoritative source,,Needs manual review
+Account ID,1,unknown,Determine the authoritative source,,Needs manual review
+Carrier Name,1,unknown,Determine the authoritative source,,Needs manual review
+Express Shipping Days,1,unknown,Determine the authoritative source,,Needs manual review
+Express Delivery Time,1,unknown,Determine the authoritative source,,Needs manual review
+Cut Off Time,1,unknown,Determine the authoritative source,,Needs manual review
+Country,1,unknown,Determine the authoritative source,,Needs manual review
+Express Shipping Time,1,unknown,Determine the authoritative source,,Needs manual review
+Same-Day Order Time,1,unknown,Determine the authoritative source,,Needs manual review
+Store Pickup Time,1,unknown,Determine the authoritative source,,Needs manual review
+Country List,1,unknown,Determine the authoritative source,,Needs manual review
+Expedited Shipping Days,1,unknown,Determine the authoritative source,,Needs manual review
+Shipping Address,1,unknown,Determine the authoritative source,,Needs manual review
+Zip Code,1,unknown,Determine the authoritative source,,Needs manual review
+Tracking Information,1,unknown,Determine the authoritative source,,Needs manual review
+Order Tracking Method,1,unknown,Determine the authoritative source,,Needs manual review
+Min Delivery Time,1,unknown,Determine the authoritative source,,Needs manual review
+Max Delivery Time,1,unknown,Determine the authoritative source,,Needs manual review
+Destination,1,unknown,Determine the authoritative source,,Needs manual review
+Shipping Method,1,unknown,Determine the authoritative source,,Needs manual review
+Shipment Tracking Number,1,dynamic_data,Authenticated customer or verified backend,,Needs field mapping
+provide step-by-step instructions,1,unknown,Determine the authoritative source,,Needs manual review
+Free Account Name,1,unknown,Determine the authoritative source,,Needs manual review
+Month,1,unknown,Determine the authoritative source,,Needs manual review
+Billing History,1,unknown,Determine the authoritative source,,Needs manual review
+Invoice Name,1,unknown,Determine the authoritative source,,Needs manual review
+Full Name,1,unknown,Determine the authoritative source,,Needs manual review
+Company Representative Name,1,unknown,Determine the authoritative source,,Needs manual review
+Refund Helpline Number,1,unknown,Determine the authoritative source,,Needs manual review
+Refund Hotline Number,1,unknown,Determine the authoritative source,,Needs manual review
+Payment Issue Phone Number,1,organization_config,Configured company settings,,Needs configuration
+Payment Issue Email,1,unknown,Determine the authoritative source,,Needs manual review
+Store Address,1,unknown,Determine the authoritative source,,Needs manual review
+Online Store,1,unknown,Determine the authoritative source,,Needs manual review
+Retail Stores,1,unknown,Determine the authoritative source,,Needs manual review
+E-commerce Platform Names,1,unknown,Determine the authoritative source,,Needs manual review
+Online Marketplace,1,unknown,Determine the authoritative source,,Needs manual review
+City 1,1,unknown,Determine the authoritative source,,Needs manual review
+City 2,1,unknown,Determine the authoritative source,,Needs manual review
+City 3,1,unknown,Determine the authoritative source,,Needs manual review
+E-commerce Platform 1,1,unknown,Determine the authoritative source,,Needs manual review
+E-commerce Platform 2,1,unknown,Determine the authoritative source,,Needs manual review
+Restore User Access Key,1,unknown,Determine the authoritative source,,Needs manual review
+Retrieve User Key,1,unknown,Determine the authoritative source,,Needs manual review
+Confirm,1,unknown,Determine the authoritative source,,Needs manual review
+Platform Login URL,1,unknown,Determine the authoritative source,,Needs manual review
+Retrieve Key,1,unknown,Determine the authoritative source,,Needs manual review
+Password Management,1,unknown,Determine the authoritative source,,Needs manual review
+Change Password,1,unknown,Determine the authoritative source,,Needs manual review
+Login Page,1,unknown,Determine the authoritative source,,Needs manual review
+User Key Retrieval Page URL,1,unknown,Determine the authoritative source,,Needs manual review
+PIN code,1,unknown,Determine the authoritative source,,Needs manual review
+Stolen User Key,1,unknown,Determine the authoritative source,,Needs manual review
+Profile PIN Recovery,1,ui_or_workflow_config,Verified application UI/workflow configuration,,Needs manual review
+Platform URL,1,unknown,Determine the authoritative source,,Needs manual review
+Reset Account Key,1,unknown,Determine the authoritative source,,Needs manual review
+Key Recovery Page URL,1,unknown,Determine the authoritative source,,Needs manual review
+Account Access Key Reset,1,unknown,Determine the authoritative source,,Needs manual review
+Security and Privacy,1,unknown,Determine the authoritative source,,Needs manual review
+Change Key,1,unknown,Determine the authoritative source,,Needs manual review
+Retrieve Account PIN,1,unknown,Determine the authoritative source,,Needs manual review
+Security Settings,1,ui_or_workflow_config,Verified application UI/workflow configuration,,Needs manual review
+PIN Reset Page URL,1,unknown,Determine the authoritative source,,Needs manual review
+Restore PIN Code,1,unknown,Determine the authoritative source,,Needs manual review
+Password and Security,1,unknown,Determine the authoritative source,,Needs manual review
+PIN Retrieval Page URL,1,unknown,Determine the authoritative source,,Needs manual review
+Help Center,1,unknown,Determine the authoritative source,,Needs manual review
+Forgot PIN code,1,unknown,Determine the authoritative source,,Needs manual review
+Password Recovery Page,1,unknown,Determine the authoritative source,,Needs manual review
+Change Access Key,1,unknown,Determine the authoritative source,,Needs manual review
+Account Key Recovery,1,unknown,Determine the authoritative source,,Needs manual review
+Password Reset,1,unknown,Determine the authoritative source,,Needs manual review
+Reset Pin Code,1,unknown,Determine the authoritative source,,Needs manual review
+Forgot User Profile Key,1,ui_or_workflow_config,Verified application UI/workflow configuration,,Needs manual review
+Access Key Reset Page URL,1,unknown,Determine the authoritative source,,Needs manual review
+Login URL,1,unknown,Determine the authoritative source,,Needs manual review
+Forgot Pin,1,unknown,Determine the authoritative source,,Needs manual review
+Restore Access Key,1,unknown,Determine the authoritative source,,Needs manual review
+Support Channel,1,unknown,Determine the authoritative source,,Needs manual review
+Restore User Key,1,unknown,Determine the authoritative source,,Needs manual review
+Contact Page URL,1,unknown,Determine the authoritative source,,Needs manual review
+Forgot Your Access Key,1,unknown,Determine the authoritative source,,Needs manual review
+Profile Security,1,ui_or_workflow_config,Verified application UI/workflow configuration,,Needs manual review
+Retrieve User Account Key,1,unknown,Determine the authoritative source,,Needs manual review
+Account Management,1,unknown,Determine the authoritative source,,Needs manual review
+Edit PIN,1,unknown,Determine the authoritative source,,Needs manual review
+Forgot Profile Access Key,1,ui_or_workflow_config,Verified application UI/workflow configuration,,Needs manual review
+Retrieve Profile Key,1,ui_or_workflow_config,Verified application UI/workflow configuration,,Needs manual review
+PIN Recovery Page URL,1,unknown,Determine the authoritative source,,Needs manual review
+User Settings,1,ui_or_workflow_config,Verified application UI/workflow configuration,,Needs manual review
+Retrieve PIN Code,1,unknown,Determine the authoritative source,,Needs manual review
+Login page URL,1,organization_config,Configured company settings,,Needs configuration
+User Profile,1,ui_or_workflow_config,Verified application UI/workflow configuration,,Needs manual review
+Pin Code Settings,1,ui_or_workflow_config,Verified application UI/workflow configuration,,Needs manual review
+User Key Retrieval,1,unknown,Determine the authoritative source,,Needs manual review
+Forgot PIN Code,1,unknown,Determine the authoritative source,,Needs manual review
+Reset,1,unknown,Determine the authoritative source,,Needs manual review
+Support Phone Number,1,organization_config,Configured company settings,,Needs configuration
+Recover Key,1,unknown,Determine the authoritative source,,Needs manual review
+User Profile Page URL,1,ui_or_workflow_config,Verified application UI/workflow configuration,,Needs manual review
+Password Recovery,1,unknown,Determine the authoritative source,,Needs manual review
+Manage PIN,1,unknown,Determine the authoritative source,,Needs manual review
+Forgot Account Access Key,1,unknown,Determine the authoritative source,,Needs manual review
+Lost Key,1,unknown,Determine the authoritative source,,Needs manual review
+Access Key Retrieval,1,unknown,Determine the authoritative source,,Needs manual review
+Key Management,1,unknown,Determine the authoritative source,,Needs manual review
+Registration Support Phone Number,1,organization_config,Configured company settings,,Needs configuration
+Support Hours,1,organization_config,Configured company settings,,Needs configuration
+Company Support Page URL,1,unknown,Determine the authoritative source,,Needs manual review
+Product Reviews Email,1,unknown,Determine the authoritative source,,Needs manual review
+Review Platform 1,1,unknown,Determine the authoritative source,,Needs manual review
+Review Platform 2,1,unknown,Determine the authoritative source,,Needs manual review
+Contact Us,1,unknown,Determine the authoritative source,,Needs manual review
+Account Page,1,unknown,Determine the authoritative source,,Needs manual review
+My Account,1,unknown,Determine the authoritative source,,Needs manual review
+Shipping Addresses,1,unknown,Determine the authoritative source,,Needs manual review
+Add a New Address,1,unknown,Determine the authoritative source,,Needs manual review
+Create a Secondary Address,1,unknown,Determine the authoritative source,,Needs manual review
+Dashboard,1,unknown,Determine the authoritative source,,Needs manual review
+User Management,1,unknown,Determine the authoritative source,,Needs manual review
+Regular Profile,1,ui_or_workflow_config,Verified application UI/workflow configuration,,Needs manual review
+Upgrade Account Type,1,dynamic_data,Authenticated customer or verified backend,,Needs field mapping
+Update Profile,1,ui_or_workflow_config,Verified application UI/workflow configuration,,Needs manual review
+Switch Plan,1,unknown,Determine the authoritative source,,Needs manual review
+Purpose of the Features,1,unknown,Determine the authoritative source,,Needs manual review
+Explanation of Feature 1,1,unknown,Determine the authoritative source,,Needs manual review
+Explanation of Feature 2,1,unknown,Determine the authoritative source,,Needs manual review
+Explanation of Feature 3,1,unknown,Determine the authoritative source,,Needs manual review
+Support Channel 1,1,unknown,Determine the authoritative source,,Needs manual review
+Support Channel 2,1,unknown,Determine the authoritative source,,Needs manual review
+Change Profile,1,ui_or_workflow_config,Verified application UI/workflow configuration,,Needs manual review
+First Step,1,unknown,Determine the authoritative source,,Needs manual review
+Second Step,1,unknown,Determine the authoritative source,,Needs manual review
+Third Step,1,unknown,Determine the authoritative source,,Needs manual review
+Fourth Step,1,unknown,Determine the authoritative source,,Needs manual review
+Fifth Step,1,unknown,Determine the authoritative source,,Needs manual review
+Change Account,1,unknown,Determine the authoritative source,,Needs manual review
+Account Type Switch,1,dynamic_data,Authenticated customer or verified backend,,Needs field mapping
+Membership Type,1,unknown,Determine the authoritative source,,Needs manual review
+Choose Account Type,1,dynamic_data,Authenticated customer or verified backend,,Needs field mapping
+Update Account,1,unknown,Determine the authoritative source,,Needs manual review
+Login steps,1,unknown,Determine the authoritative source,,Needs manual review
+Navigation steps,1,unknown,Determine the authoritative source,,Needs manual review
+Switching option,1,unknown,Determine the authoritative source,,Needs manual review
+Completion steps,1,unknown,Determine the authoritative source,,Needs manual review
+Manage Subscription,1,unknown,Determine the authoritative source,,Needs manual review
+Contact Channel,1,unknown,Determine the authoritative source,,Needs manual review
+Username,1,unknown,Determine the authoritative source,,Needs manual review
+Account Plan,1,unknown,Determine the authoritative source,,Needs manual review
+Upgrade or Downgrade Account,1,unknown,Determine the authoritative source,,Needs manual review
+Downgrade,1,unknown,Determine the authoritative source,,Needs manual review
+Sign Up,1,unknown,Determine the authoritative source,,Needs manual review
+Create Account,1,unknown,Determine the authoritative source,,Needs manual review
+Tracking Page,1,unknown,Determine the authoritative source,,Needs manual review
+Shipping Status,1,unknown,Determine the authoritative source,,Needs manual review
+Email Address,1,unknown,Determine the authoritative source,,Needs manual review
+Order Tracker,1,unknown,Determine the authoritative source,,Needs manual review
+Delivery Date,1,unknown,Determine the authoritative source,,Needs manual review
+Customer Support Live Chat URL,1,unknown,Determine the authoritative source,,Needs manual review
+Track Reimbursement,1,unknown,Determine the authoritative source,,Needs manual review
+Order/Invoice Number,1,dynamic_data,Authenticated customer or verified backend,,Needs field mapping
+Customer ID,1,dynamic_data,Authenticated customer or verified backend,,Needs field mapping
+Rebate Number,1,unknown,Determine the authoritative source,,Needs manual review
+Reimbursement Request Number,1,unknown,Determine the authoritative source,,Needs manual review
+Order/Transaction/Reference Number,1,unknown,Determine the authoritative source,,Needs manual review
+Rebate Identifier,1,unknown,Determine the authoritative source,,Needs manual review
+Restitution ID,1,unknown,Determine the authoritative source,,Needs manual review
+Order/Claim/Compensation,1,unknown,Determine the authoritative source,,Needs manual review
+Account Details,1,unknown,Determine the authoritative source,,Needs manual review
+Compensation Type,1,unknown,Determine the authoritative source,,Needs manual review
+Order/Refund/Transaction,1,unknown,Determine the authoritative source,,Needs manual review
+Order/Claim Number,1,unknown,Determine the authoritative source,,Needs manual review
+Case Number,1,unknown,Determine the authoritative source,,Needs manual review
+Order/Refund/Case Number,1,unknown,Determine the authoritative source,,Needs manual review
+Order/Transaction ID,1,unknown,Determine the authoritative source,,Needs manual review
+Compensation ID,1,unknown,Determine the authoritative source,,Needs manual review
+Compensation Identifier,1,unknown,Determine the authoritative source,,Needs manual review

@@ -1,0 +1,42 @@
+{
+  "analysis": "Twitter customer-support exploratory analysis",
+  "scope": "First 10,000 rows of the linked reply-pairs CSV",
+  "full_cleaned_tweet_rows": 2811774,
+  "indexed_tweets": 2811774,
+  "linked_parent_child_edges": 2013577,
+  "pair_type_distribution_sample": {
+    "customer_to_support": {
+      "count": 6117,
+      "percentage": 61.17
+    },
+    "support_to_customer": {
+      "count": 2914,
+      "percentage": 29.14
+    },
+    "same_direction": {
+      "count": 969,
+      "percentage": 9.69
+    }
+  },
+  "response_time_sample_minutes": {
+    "valid_customer_to_support_pairs": 6117,
+    "mean_minutes": 249.3,
+    "median_minutes": 15.45,
+    "p75_minutes": 68.3,
+    "p90_minutes": 482.61,
+    "p95_minutes": 1410.75,
+    "max_minutes": 42847.83
+  },
+  "message_length_sample_characters": {
+    "sample_pairs": 10000,
+    "parent_mean_characters": 107.44,
+    "parent_median_characters": 111.0,
+    "reply_mean_characters": 101.87,
+    "reply_median_characters": 104.0
+  },
+  "timestamp_quality_sample": {
+    "invalid_timestamps": 0,
+    "negative_delays": 0
+  },
+  "interpretation_note": "Results are exploratory sample statistics, not full-dataset estimates or a verified company-wide response-time SLA. Linked parent-reply edges are not necessarily complete conversations."
+}

@@ -1,0 +1,120 @@
+.venv/
+__pycache__/
+.env
+.env.*
+!.env.example
+*service-account*.json
+*firebase-adminsdk*.json
+# Environment secrets
+.env_example
+# Firebase private credentials
+nexus-ai-secrets/
+# Python
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+# Frontend
+node_modules/
+frontend/node_modules/
+frontend/dist/
+dist/
+build/
+.vite/
+.vercel/
+# Private customer data
+data/chat_history/
+data/chat_attachments/
+uploads/
+chat_attachments/
+*.sqlite
+*.sqlite3
+# Logs and temporary files
+*.log
+temp/
+tmp/
+# Private keys
+*.pem
+*.key
+# IDE / OS
+.idea/
+.DS_Store
+Thumbs.db
+.vercel
+.env*
+
+.env.vercel.preview
+
+# Secrets and environment files
+.env
+.env.*
+!.env.example
+!**/.env.example
+nexus-ai-secrets/
+**/nexus-ai-secrets/
+*.pem
+*.key
+*.p12
+*.pfx
+**/*service-account*.json
+**/*firebase*adminsdk*.json
+
+# Vercel local configuration
+.vercel/
+**/.vercel/
+
+# Dependencies and local environments
+node_modules/
+**/node_modules/
+.venv/
+**/.venv/
+venv/
+**/venv/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# Private application/customer data
+data/
+**/data/
+instance/
+uploads/
+logs/
+*.log
+*.sqlite
+*.sqlite3
+*.sqlite3-*
+*.db
+*.db-*
+
+# Large generated ML artifacts
+*.joblib
+*.pkl
+*.pickle
+*.faiss
+*.npy
+*.npz
+*.onnx
+*.pt
+*.pth
+*.h5
+*.safetensors
+models/embeddings/bitext_faq_backups/
+
+# Build outputs and temporary backups
+dist/
+**/dist/
+coverage/
+*.cors-backup
+*.pre_production_cors.py
+
+# Public repository safety exclusions
+/temp_banking77/
+/uiux_references/
+/.agents/
+/scratch/
+/data/
+/nexus-ai-secrets/
+/.vercel/

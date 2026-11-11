@@ -1,0 +1,10 @@
+{
+    "model": "BERT-Tiny",
+    "dataset": "BANKING77",
+    "classes": 77,
+    "best_epoch": 6,
+    "validation_macro_f1": 0.5144365920784562,
+    "validation_accuracy": 0.594,
+    "max_length": 96,
+    "training_epochs": 8
+}

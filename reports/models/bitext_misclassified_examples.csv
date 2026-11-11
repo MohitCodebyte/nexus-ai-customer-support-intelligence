@@ -1,0 +1,28 @@
+instruction,actual_intent,predicted_intent
+i bought some damn item help to cancep order {{Order Number}},cancel_order,change_order
+how could icancel purchase {{Order Number}},cancel_order,change_order
+is it possible to cxancel order {{Order Number}},cancel_order,change_order
+is it possible to cxancel order {{Order Number}},cancel_order,change_order
+update purchase00123842,change_order,edit_account
+hep changing some products of an order,change_order,place_order
+I don't know how I cansee my invoices from {{Person Name}},check_invoice,get_invoice
+am I entitled to a reimbursement?,check_refund_policy,get_refund
+I want assistance creatinga standard account,create_account,delete_account
+what do i have to do to createa premium account,create_account,delete_account
+would it be possible to oen a gold account,create_account,delete_account
+i want assistance to removce the premium account,delete_account,switch_account
+i cannot find bill #85632 can usendit to me,get_invoice,check_invoice
+help me todownload my invoice #00108,get_invoice,check_invoice
+assistance to dowmload the invoice from {{Person Name}},get_invoice,check_invoice
+refund {{Refund Amount}} dollars,get_refund,track_refund
+refund {{Refund Amount}} dollars,get_refund,track_refund
+refund {{Refund Amount}} dollars,get_refund,track_refund
+refund {{Refund Amount}} dollars,get_refund,track_refund
+refund {{Refund Amount}} dollars,get_refund,track_refund
+i dont know what to do to cancel my newxletter subscription,newsletter_subscription,delete_account
+i have a question about thepayments,payment_issue,recover_password
+I am trying to inform of an error with paymenys,payment_issue,registration_problems
+"I can't open an account, reportregistration issues",registration_problems,create_account
+deliveryaddress issue,set_up_shipping_address,registration_problems
+lcate order {{Order Number}},track_order,change_order
+need to trafk order {{Order Number}} help me,track_order,change_order

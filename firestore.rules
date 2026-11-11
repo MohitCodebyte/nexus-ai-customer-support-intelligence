@@ -1,0 +1,11 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Nexus AI Support enforces strict backend authorization via Firebase Admin SDK.
+    // All direct client-side reads and writes are denied.
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}
